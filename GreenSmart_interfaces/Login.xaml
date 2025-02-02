@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GreenSmart_interfaces.Login"
+             Title="Login"
+    BackgroundColor="#C5E1A5">
+
+    <StackLayout Padding="30" Spacing="15" VerticalOptions="Center">
+
+        <Image Source="https://images.vexels.com/media/users/3/201075/isolated/preview/b893c17e341ed4f2734565958a642a77-planta-en-icono-de-maceta.png" HeightRequest="120" WidthRequest="120" HorizontalOptions="Center"
+                Margin="0,-100,0,0"/>
+
+        <Label Text="GreenSmart" FontSize="24" FontAttributes="Bold" TextColor="White" HorizontalOptions="Center"/>
+
+        <Entry Placeholder="Usuario" BackgroundColor="White" HeightRequest="40" TextColor="Black" WidthRequest="300"
+               Margin="0,40,0,0"/>
+
+        <Entry Placeholder="Contraseña" IsPassword="True" BackgroundColor="White" HeightRequest="40" TextColor="Black" WidthRequest="300"
+               Margin="0,20,0,0"/>
+
+        <Button Text="Iniciar sesión" BackgroundColor="#4CAF50" TextColor="White" WidthRequest="200"
+                CornerRadius="20" HeightRequest="40" Margin="0,40,0,0"/>
+
+        <Label Text="¿Olvidaste tu contraseña?" TextColor="Black" FontSize="14"
+               HorizontalOptions="Center" TextDecorations="Underline" Margin="0,10,0,0"/>
+
+        <Button Text="Crear nueva cuenta" BackgroundColor="#F5F5DC" TextColor="Black" WidthRequest="230"
+                CornerRadius="20" HeightRequest="40" Margin="0,40,0,0"/>
+    </StackLayout>
+
+</ContentPage>

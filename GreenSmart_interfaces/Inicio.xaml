@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GreenSmart_interfaces.Inicio"
+             Title="Inicio"
+             BackgroundColor="#B7ECCA">
+
+    <VerticalStackLayout>
+
+        <Label Text="GreenSmart" FontSize="24" FontAttributes="Bold" TextColor="White" HorizontalOptions="Center"/>
+
+        <Image Source="https://images.vexels.com/media/users/3/201075/isolated/preview/b893c17e341ed4f2734565958a642a77-planta-en-icono-de-maceta.png" HeightRequest="120" WidthRequest="120" HorizontalOptions="Center"
+         Margin="0,0,0,0"/>
+        
+        
+
+    </VerticalStackLayout>
+</ContentPage>
