@@ -8,7 +8,8 @@
 
             //MainPage = new AppShell();
             //MainPage = new Login();
-            MainPage = new Registro();
+            //MainPage = new Registro();
+            MainPage = new Inicio();
         }
     }
 }

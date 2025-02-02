@@ -1049,3 +1049,4 @@ C:\Users\aleja\source\repos\GreenSmart_interfaces\GreenSmart_interfaces\obj\Debu
 C:\Users\aleja\source\repos\GreenSmart_interfaces\GreenSmart_interfaces\obj\Debug\net8.0-android\android\assets\Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
 C:\Users\aleja\source\repos\GreenSmart_interfaces\GreenSmart_interfaces\obj\Debug\net8.0-android\android\assets\Microsoft.VisualStudio.DesignTools.TapContract.dll
 C:\Users\aleja\source\repos\GreenSmart_interfaces\GreenSmart_interfaces\obj\Debug\net8.0-android\android\assets\System.Private.CoreLib.dll
+C:\Users\aleja\source\repos\GreenSmart_interfaces\GreenSmart_interfaces\obj\Debug\net8.0-android\GreenSmart_interfaces.sourcelink.json

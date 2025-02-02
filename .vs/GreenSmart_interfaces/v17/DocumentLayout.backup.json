@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{FBDC4025-B1DE-49AE-9D57-8AA1FA87E486}|GreenSmart_interfaces\\GreenSmart_interfaces.csproj|solutionrelative:greensmart_interfaces\\registro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBDC4025-B1DE-49AE-9D57-8AA1FA87E486}|GreenSmart_interfaces\\GreenSmart_interfaces.csproj|c:\\users\\aleja\\source\\repos\\greensmart_interfaces\\greensmart_interfaces\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FBDC4025-B1DE-49AE-9D57-8AA1FA87E486}|GreenSmart_interfaces\\GreenSmart_interfaces.csproj|solutionrelative:greensmart_interfaces\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FBDC4025-B1DE-49AE-9D57-8AA1FA87E486}|GreenSmart_interfaces\\GreenSmart_interfaces.csproj|c:\\users\\aleja\\source\\repos\\greensmart_interfaces\\greensmart_interfaces\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FBDC4025-B1DE-49AE-9D57-8AA1FA87E486}|GreenSmart_interfaces\\GreenSmart_interfaces.csproj|solutionrelative:greensmart_interfaces\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDC4025-B1DE-49AE-9D57-8AA1FA87E486}|GreenSmart_interfaces\\GreenSmart_interfaces.csproj|c:\\users\\aleja\\source\\repos\\greensmart_interfaces\\greensmart_interfaces\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FBDC4025-B1DE-49AE-9D57-8AA1FA87E486}|GreenSmart_interfaces\\GreenSmart_interfaces.csproj|solutionrelative:greensmart_interfaces\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FBDC4025-B1DE-49AE-9D57-8AA1FA87E486}|GreenSmart_interfaces\\GreenSmart_interfaces.csproj|c:\\users\\aleja\\source\\repos\\greensmart_interfaces\\greensmart_interfaces\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "GreenSmart_interfaces\\Inicio.xaml",
               "ToolTip": "C:\\Users\\aleja\\source\\repos\\GreenSmart_interfaces\\GreenSmart_interfaces\\Inicio.xaml",
               "RelativeToolTip": "GreenSmart_interfaces\\Inicio.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-02-02T06:17:14.53Z",
               "EditorCaption": ""
@@ -53,14 +53,14 @@
               "RelativeDocumentMoniker": "GreenSmart_interfaces\\Registro.xaml",
               "ToolTip": "C:\\Users\\aleja\\source\\repos\\GreenSmart_interfaces\\GreenSmart_interfaces\\Registro.xaml",
               "RelativeToolTip": "GreenSmart_interfaces\\Registro.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABzAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-02-02T06:10:15.166Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Login.xaml",
               "DocumentMoniker": "C:\\Users\\aleja\\source\\repos\\GreenSmart_interfaces\\GreenSmart_interfaces\\Login.xaml",
               "RelativeDocumentMoniker": "GreenSmart_interfaces\\Login.xaml",
@@ -68,18 +68,17 @@
               "RelativeToolTip": "GreenSmart_interfaces\\Login.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-02T05:44:35.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T05:44:35.135Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\aleja\\source\\repos\\GreenSmart_interfaces\\GreenSmart_interfaces\\App.xaml.cs",
               "RelativeDocumentMoniker": "GreenSmart_interfaces\\App.xaml.cs",
               "ToolTip": "C:\\Users\\aleja\\source\\repos\\GreenSmart_interfaces\\GreenSmart_interfaces\\App.xaml.cs",
               "RelativeToolTip": "GreenSmart_interfaces\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-02T05:44:14.832Z",
               "EditorCaption": ""
@@ -94,8 +93,7 @@
               "RelativeToolTip": "GreenSmart_interfaces\\MainPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-02T05:31:14.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T05:31:14.706Z"
             }
           ]
         }

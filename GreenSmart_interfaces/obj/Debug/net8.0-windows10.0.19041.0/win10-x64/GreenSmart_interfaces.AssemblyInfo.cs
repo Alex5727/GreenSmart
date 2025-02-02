@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GreenSmart_interfaces")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+d8b0ffd0bba1e9cd24f72037d28088eb869743d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("GreenSmart_interfaces")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GreenSmart_interfaces")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
